@@ -42,6 +42,13 @@ Since this project uses the Open-Meteo API, there are **no API keys to configure
 
 4. Click Run to launch the app on your emulator or physical device.
 
+## App Preview
+## 📱 Screenshot
+
+| Home screen | Search bar |   
+| :---: | :---: |
+| <img src="screenshots/Screenshot_20260623-090522.png" width="250"/> | <img src="screenshots/Screenshot_20260623-102518.png" width="250"/> | <img src="screenshots/Screenshot_20260623-102531.png" width="250"/> | 
+
 ## Versione italiana
 
 Una moderna e reattiva applicazione meteo per Android, sviluppata interamente con **Jetpack Compose** e **Kotlin**.
