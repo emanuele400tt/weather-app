@@ -45,7 +45,7 @@ Since this project uses the Open-Meteo API, there are **no API keys to configure
 ## App Preview
 ## 📱 Screenshot
 
-| Home screen | Search bar |   
+| Home screen | Home screen | Search Bar |   
 | :---: | :---: |
 | <img src="screenshots/Screenshot_20260623-090522.png" width="250"/> | <img src="screenshots/Screenshot_20260623-102518.png" width="250"/> | <img src="screenshots/Screenshot_20260623-102531.png" width="250"/> | 
 
