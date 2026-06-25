@@ -35,12 +35,25 @@ Since this project uses the Open-Meteo API, there are **no API keys to configure
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/emanuele400tt/weather-app.git](https://github.com/emanuele400tt/weather-app.git)
+   git clone https://github.com/emanuele400tt/weather-app.git
 2. Open the project in Android Studio (Koala or newer recommended).
 
 3. Let Gradle sync and download the dependencies.
 
 4. Click Run to launch the app on your emulator or physical device.
+
+
+## 📌 Project Status
+
+> **Maintenance Notice:** This application is a *showcase* project developed for portfolio and technical demonstration purposes. The source code is complete and the app is fully functional, but the repository is **not actively maintained**. Future changes by external API providers (e.g., weather services) may affect data fetching. Feel free to explore the code or test the app via the releases!
+
+---
+
+## 🚀 Download and Installation
+1. Download the `app-release.apk` file to your smartphone.
+2. Tap the downloaded file to start the installation. 
+3. *Note:* Since this app is downloaded outside of the Google Play Store, your device might ask for permission to "install unknown apps". Confirm to proceed.
+   
 
 ## App Preview
 ## 📱 Screenshot
@@ -92,3 +105,15 @@ Poiché questo progetto utilizza l'API di Open-Meteo, **non ci sono chiavi API d
 3. Attendi la sincronizzazione di Gradle e il download delle dipendenze.
 
 4. Clicca su Run per avviare l'app sul tuo emulatore o dispositivo fisico.
+
+## 📌 Stato del Progetto
+
+> **Avviso di Manutenzione:** Questa applicazione è un progetto *showcase* sviluppato a scopo di portfolio e dimostrazione tecnica. Il codice sorgente è completo e l'app è funzionante, ma il repository **non è attivamente mantenuto**. Eventuali modifiche future da parte dei provider delle API esterne (es. servizi meteo) potrebbero influire sul caricamento dei dati. Sentiti libero di esplorare il codice o testare l'app tramite le release!
+
+---
+
+## 🚀 Download e Installazione
+1. Scarica il file `app-release.apk` sul tuo smartphone.
+2. Fai tap sul file scaricato per avviare l'installazione. 
+3. *Nota:* Essendo un'app scaricata al di fuori del Google Play Store, il tuo dispositivo potrebbe chiederti l'autorizzazione per "installare app da fonti sconosciute". Conferma per procedere.
+
